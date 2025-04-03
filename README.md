@@ -29,8 +29,8 @@ Check out some of my best work:
 
 ## 💡 Let's Connect!  
 If you love **tech, open-source, or just want to discuss ideas**, feel free to reach out!  
-📩 **Email:** your@email.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+📩 **Email:** gourav2912@email.com  
+🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/gouravchouhan)  
 
 💬 *Do let me know if I can help you in any way—my inbox is always open!* 🚀
 

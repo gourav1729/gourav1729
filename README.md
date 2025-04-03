@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm [Your Name]  
 
 ## 🚀 About Me
-I'm a **Frontend Educator & Developer** at DebugShala with a passion for teaching and building web applications. With expertise in **MERN stack**, I help developers and students master JavaScript, React.js, and backend technologies. My goal is to empower learners with hands-on experience and industry-relevant skills.
+I'm a **MERN/Full-Stack Developer & Educator** with a passion for teaching and building web applications. With expertise in **MERN stack**, I help developers and students master JavaScript, React.js, and backend technologies. My goal is to empower learners with hands-on experience and industry-relevant skills.
 
 ## 💻 Tech Stack & Skills
 - **Frontend**: HTML, CSS, JavaScript, React.js, TypeScript, Next.js

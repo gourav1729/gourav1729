@@ -1,25 +1,37 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-<h1 align="center">Hi 👋, I'm Gourav Chouhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+# Hi there! 👋 I'm [Your Name]  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourav1729&label=Profile%20views&color=0e75b6&style=flat" alt="gourav1729" /> </p>
+## 🚀 About Me
+I'm a **Frontend Educator & Developer** at DebugShala with a passion for teaching and building web applications. With expertise in **MERN stack**, I help developers and students master JavaScript, React.js, and backend technologies. My goal is to empower learners with hands-on experience and industry-relevant skills.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gourav1729" alt="gourav1729" /></a> </p>
+## 💻 Tech Stack & Skills
+- **Frontend**: HTML, CSS, JavaScript, React.js, TypeScript, Next.js
+- **Backend**: Node.js, Express.js, MongoDB
+- **Database**: MySQL, PostgreSQL, NoSQL databases
+- **DevOps & Deployment**: Docker, CI/CD, Hosting on Hostinger, Cloud deployment
+- **Version Control**: Git & GitHub
+- **Other Technologies**: Web 3.0, Redux, REST APIs, GraphQL
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🎯 What I'm Currently Doing
+- Teaching **JavaScript, React.js, TypeScript, and databases** to students.
+- Exploring **Backend Development & DevOps** to enhance my full-stack skills.
+- Deploying MERN applications using **Hostinger and advanced deployment techniques**.
+- Creating structured roadmaps and content for **web development & programming**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gouravchouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gouravchouhan" height="30" width="40" /></a>
-</p>
+## 📚 Teaching & Learning
+I create and share structured educational content for:
+- **JavaScript**: Arrays, Loops, Objects, Async/Await, ES6+ concepts
+- **React.js**: Components, Hooks, Context API, Router, Redux
+- **Databases**: Relational, Document, Graph, and Vector databases
+- **HTML & CSS**: Beginner-friendly and advanced concepts
+- **TypeScript**: For beginners and advanced developers
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📌 Projects & Contributions
+🔹 **Admin Dashboard** - MERN Stack with Vite 🔹 **CRUD To-Do App** with Admin Panel 🔹 **React & JavaScript Practice Projects** 🔹 **Web 3.0 Learning & Exploration**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourav1729&show_icons=true&locale=en&layout=compact" alt="gourav1729" /></p>
+## 📩 Connect with Me
+- 🔗 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- 🔗 **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- ✉️ **Email**: your.email@example.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourav1729&show_icons=true&locale=en" alt="gourav1729" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourav1729&" alt="gourav1729" /></p>
+Always happy to collaborate and learn together! 🚀
 
